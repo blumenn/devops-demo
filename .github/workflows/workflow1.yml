@@ -9,7 +9,6 @@ push:
 jobs:
     # Build job
     build:
-
     name: My First Pipeline
     # Run on Ubuntu using the latest version
     runs-on: ubuntu-latest
